@@ -4,8 +4,6 @@
   <img src="imgs/schroed_ex.gif" />
 </p>
 
-![The wavefunctions, superposition, and probability distribution of the superposition function plotted against distance for two particles in a box](imgs/schroed_ex.gif)
-
 ### Overview
 In this project, we use Python to plot and animate the analytical and numerical solutions to the Schrödinger equation, and show how the toy qunatum mechanics problem of a 
 particle in a box evolves with time! 
